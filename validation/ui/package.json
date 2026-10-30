@@ -1,0 +1,11 @@
+{
+  "name": "draftfork-ui-check",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "devDependencies": {
+    "jsdom": "26.1.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  }
+}
